@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @harshareedyb
 - 👀 I’m interested in ...ethical hacking
+- ✨ I’m currently working as... java developer 
 - 🌱 I’m currently learning ... Cyber security
 - 💞️ I’m looking to collaborate on ...hacking
 - 📫 How to reach me ...6281906717 contact number
